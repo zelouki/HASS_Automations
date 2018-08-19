@@ -1,0 +1,12 @@
+{
+    "name": "HASS_Automations",
+    "description": "My Home Assistant automation flows",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_Sakuya.json",
+            "credentialsFile": "flows_Sakuya_cred.json"
+        }
+    }
+}
