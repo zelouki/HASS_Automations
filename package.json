@@ -3,10 +3,9 @@
     "description": "My Home Assistant automation flows",
     "version": "0.0.1",
     "dependencies": {
-        "node-red-contrib-bigtimer": "1.9.2",
+        "node-red-contrib-bigtimer": "2.0.2",
         "node-red-contrib-home-assistant": "0.3.2",
-        "node-red-contrib-stoptimer": "0.0.7",
-        "node-red-dashboard": "2.9.6"
+        "node-red-contrib-stoptimer": "0.0.7"
     },
     "node-red": {
         "settings": {
